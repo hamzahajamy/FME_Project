@@ -1,0 +1,21 @@
+store_id,rule,reject_reason
+DE-0097,R1,Standort ohne Geschäftsdaten (keine Zeile in store_attributes.csv)
+RO-0058,R1,Standort ohne Geschäftsdaten (keine Zeile in store_attributes.csv)
+DE-0101,R2,Geschäftsdaten ohne Standort (keine Geometrie in den Standortdateien)
+DE-0102,R2,Geschäftsdaten ohne Standort (keine Geometrie in den Standortdateien)
+RO-0061,R2,Geschäftsdaten ohne Standort (keine Geometrie in den Standortdateien)
+DE-0042,R3,Doppelte Filial-ID – Datensatz nicht eindeutig
+DE-0042,R3,Doppelte Filial-ID – Datensatz nicht eindeutig
+DE-0013,R4,Geometrie fehlt
+DE-0021,R5,"Koordinaten außerhalb des Landes (vertauscht, 0/0 oder falsches Koordinatensystem)"
+DE-0034,R5,"Koordinaten außerhalb des Landes (vertauscht, 0/0 oder falsches Koordinatensystem)"
+DE-0055,R5,"Koordinaten außerhalb des Landes (vertauscht, 0/0 oder falsches Koordinatensystem)"
+RO-0017,R5,"Koordinaten außerhalb des Landes (vertauscht, 0/0 oder falsches Koordinatensystem)"
+DE-0008,R6,"Pflichtfeld fehlt (Name, PLZ, Status, Eröffnungsdatum oder Verkaufsfläche)"
+DE-0066,R6,"Pflichtfeld fehlt (Name, PLZ, Status, Eröffnungsdatum oder Verkaufsfläche)"
+RO-0025,R6,"Pflichtfeld fehlt (Name, PLZ, Status, Eröffnungsdatum oder Verkaufsfläche)"
+DE-0071,R7,"Status nicht im Wertebereich (open, closed, planned)"
+DE-0080,R7,Verkaufsfläche muss größer als 0 sein
+DE-0090,R7,"PLZ-Format falsch (DE: 5 Ziffern, RO: 6 Ziffern)"
+RO-0033,R7,Eröffnungsdatum ungültig
+RO-0040,R7,"PLZ-Format falsch (DE: 5 Ziffern, RO: 6 Ziffern)"

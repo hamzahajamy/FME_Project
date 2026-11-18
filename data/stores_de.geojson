@@ -1,0 +1,1615 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "filial_nr": "DE-0001",
+    "filialname": "Filiale München West",
+    "plz": "80218",
+    "ort": "München"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     11.568502,
+     48.106601
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "filial_nr": "DE-0002",
+    "filialname": "Filiale Berlin Süd",
+    "plz": "10338",
+    "ort": "Berlin"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.376907,
+     52.52543
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "filial_nr": "DE-0003",
+    "filialname": "Filiale Mannheim Bahnhof",
+    "plz": "68379",
+    "ort": "Mannheim"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     8.44793,
+     49.459092
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "filial_nr": "DE-0004",
+    "filialname": "Filiale Leipzig Ost",
+    "plz": "04654",
+    "ort": "Leipzig"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     12.34349,
+     51.358266
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "filial_nr": "DE-0005",
+    "filialname": "Filiale Köln Süd",
+    "plz": "50161",
+    "ort": "Köln"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     6.97611,
+     50.920419
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "filial_nr": "DE-0006",
+    "filialname": "Filiale Dresden Nord",
+    "plz": "01781",
+    "ort": "Dresden"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.743524,
+     51.07125
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "filial_nr": "DE-0007",
+    "filialname": "Filiale Nürnberg Zentrum",
+    "plz": "90931",
+    "ort": "Nürnberg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     11.064291,
+     49.426828
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "filial_nr": "DE-0008",
+    "filialname": "",
+    "plz": "22316",
+    "ort": "Hamburg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     10.010084,
+     53.560776
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "filial_nr": "DE-0009",
+    "filialname": "Filiale Leipzig Ost",
+    "plz": "04553",
+    "ort": "Leipzig"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     12.393147,
+     51.336905
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "filial_nr": "DE-0010",
+    "filialname": "Filiale Leipzig Süd",
+    "plz": "04928",
+    "ort": "Leipzig"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     12.384113,
+     51.351809
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "filial_nr": "DE-0011",
+    "filialname": "Filiale Düsseldorf West",
+    "plz": "40503",
+    "ort": "Düsseldorf"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     6.766267,
+     51.207504
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "filial_nr": "DE-0012",
+    "filialname": "Filiale Hamburg Süd",
+    "plz": "22395",
+    "ort": "Hamburg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     9.98777,
+     53.569403
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "filial_nr": "DE-0013",
+    "filialname": "Filiale Stuttgart Altstadt",
+    "plz": "70242",
+    "ort": "Stuttgart"
+   },
+   "geometry": null
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "filial_nr": "DE-0014",
+    "filialname": "Filiale Düsseldorf Bahnhof",
+    "plz": "40965",
+    "ort": "Düsseldorf"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     6.775839,
+     51.242399
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "filial_nr": "DE-0015",
+    "filialname": "Filiale Düsseldorf Altstadt",
+    "plz": "40101",
+    "ort": "Düsseldorf"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     6.7518,
+     51.25754
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "filial_nr": "DE-0016",
+    "filialname": "Filiale Köln Bahnhof",
+    "plz": "50916",
+    "ort": "Köln"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     6.977825,
+     50.945147
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "filial_nr": "DE-0017",
+    "filialname": "Filiale Nürnberg Mitte",
+    "plz": "90801",
+    "ort": "Nürnberg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     11.074783,
+     49.457853
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "filial_nr": "DE-0018",
+    "filialname": "Filiale Rostock Zentrum",
+    "plz": "18146",
+    "ort": "Rostock"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     12.115216,
+     54.107453
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "filial_nr": "DE-0019",
+    "filialname": "Filiale Frankfurt am Main Mitte",
+    "plz": "60828",
+    "ort": "Frankfurt am Main"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     8.709329,
+     50.108123
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "filial_nr": "DE-0020",
+    "filialname": "Filiale München West",
+    "plz": "80252",
+    "ort": "München"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     11.569907,
+     48.157331
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "filial_nr": "DE-0021",
+    "filialname": "Filiale Rostock Nord",
+    "plz": "18957",
+    "ort": "Rostock"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.0,
+     0.0
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "filial_nr": "DE-0022",
+    "filialname": "Filiale Hannover Mitte",
+    "plz": "30303",
+    "ort": "Hannover"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     9.723779,
+     52.352612
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "filial_nr": "DE-0023",
+    "filialname": "Filiale Erfurt Altstadt",
+    "plz": "99182",
+    "ort": "Erfurt"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     11.005039,
+     51.011617
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "filial_nr": "DE-0024",
+    "filialname": "Filiale Köln Ost",
+    "plz": "50489",
+    "ort": "Köln"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     6.987111,
+     50.947085
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "filial_nr": "DE-0025",
+    "filialname": "Filiale Heilbronn West",
+    "plz": "74465",
+    "ort": "Heilbronn"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     9.236635,
+     49.170562
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "filial_nr": "DE-0026",
+    "filialname": "Filiale Kassel West",
+    "plz": "34315",
+    "ort": "Kassel"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     9.476789,
+     51.336677
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "filial_nr": "DE-0027",
+    "filialname": "Filiale Hannover West",
+    "plz": "30010",
+    "ort": "Hannover"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     9.715807,
+     52.381199
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "filial_nr": "DE-0028",
+    "filialname": "Filiale Düsseldorf Zentrum",
+    "plz": "40183",
+    "ort": "Düsseldorf"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     6.745385,
+     51.201744
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "filial_nr": "DE-0029",
+    "filialname": "Filiale Leipzig Ost",
+    "plz": "04997",
+    "ort": "Leipzig"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     12.355954,
+     51.349839
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "filial_nr": "DE-0030",
+    "filialname": "Filiale Düsseldorf West",
+    "plz": "40116",
+    "ort": "Düsseldorf"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     6.79195,
+     51.244777
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "filial_nr": "DE-0031",
+    "filialname": "Filiale Dresden Nord",
+    "plz": "01106",
+    "ort": "Dresden"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.735321,
+     51.045815
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "filial_nr": "DE-0032",
+    "filialname": "Filiale Bremen West",
+    "plz": "28387",
+    "ort": "Bremen"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     8.778256,
+     53.097336
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "filial_nr": "DE-0033",
+    "filialname": "Filiale Köln West",
+    "plz": "50178",
+    "ort": "Köln"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     6.947013,
+     50.932813
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "filial_nr": "DE-0034",
+    "filialname": "Filiale München Nord",
+    "plz": "80132",
+    "ort": "München"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     48.108135,
+     11.611957
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "filial_nr": "DE-0035",
+    "filialname": "Filiale Heilbronn Bahnhof",
+    "plz": "74026",
+    "ort": "Heilbronn"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     9.193725,
+     49.141838
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "filial_nr": "DE-0036",
+    "filialname": "Filiale Hannover Altstadt",
+    "plz": "30468",
+    "ort": "Hannover"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     9.717912,
+     52.405019
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "filial_nr": "DE-0037",
+    "filialname": "Filiale Münster Nord",
+    "plz": "48980",
+    "ort": "Münster"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.613902,
+     51.939988
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "filial_nr": "DE-0038",
+    "filialname": "Filiale Bremen Ost",
+    "plz": "28081",
+    "ort": "Bremen"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     8.806751,
+     53.05273
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "filial_nr": "DE-0039",
+    "filialname": "Filiale Frankfurt am Main West",
+    "plz": "60619",
+    "ort": "Frankfurt am Main"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     8.656178,
+     50.085011
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "filial_nr": "DE-0040",
+    "filialname": "Filiale Düsseldorf Süd",
+    "plz": "40699",
+    "ort": "Düsseldorf"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     6.745884,
+     51.232435
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "filial_nr": "DE-0041",
+    "filialname": "Filiale Freiburg im Breisgau Zentrum",
+    "plz": "79346",
+    "ort": "Freiburg im Breisgau"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.827746,
+     47.987982
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "filial_nr": "DE-0042",
+    "filialname": "Filiale Köln Zentrum",
+    "plz": "50107",
+    "ort": "Köln"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     6.9483,
+     50.947801
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "filial_nr": "DE-0043",
+    "filialname": "Filiale Mannheim Süd",
+    "plz": "68838",
+    "ort": "Mannheim"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     8.495766,
+     49.517407
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "filial_nr": "DE-0044",
+    "filialname": "Filiale Leipzig Süd",
+    "plz": "04354",
+    "ort": "Leipzig"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     12.364041,
+     51.317647
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "filial_nr": "DE-0045",
+    "filialname": "Filiale Frankfurt am Main Mitte",
+    "plz": "60980",
+    "ort": "Frankfurt am Main"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     8.684693,
+     50.107191
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "filial_nr": "DE-0046",
+    "filialname": "Filiale Rostock Ost",
+    "plz": "18411",
+    "ort": "Rostock"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     12.108903,
+     54.080363
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "filial_nr": "DE-0047",
+    "filialname": "Filiale Rostock West",
+    "plz": "18534",
+    "ort": "Rostock"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     12.086005,
+     54.071727
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "filial_nr": "DE-0048",
+    "filialname": "Filiale Freiburg im Breisgau Nord",
+    "plz": "79164",
+    "ort": "Freiburg im Breisgau"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.86642,
+     47.998312
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "filial_nr": "DE-0049",
+    "filialname": "Filiale Hamburg Mitte",
+    "plz": "22278",
+    "ort": "Hamburg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     10.009967,
+     53.521313
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "filial_nr": "DE-0050",
+    "filialname": "Filiale Heilbronn Ost",
+    "plz": "74805",
+    "ort": "Heilbronn"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     9.187612,
+     49.146354
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "filial_nr": "DE-0051",
+    "filialname": "Filiale Erfurt Nord",
+    "plz": "99450",
+    "ort": "Erfurt"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     11.025687,
+     50.987952
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "filial_nr": "DE-0052",
+    "filialname": "Filiale Dresden Süd",
+    "plz": "01586",
+    "ort": "Dresden"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.722272,
+     51.033005
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "filial_nr": "DE-0053",
+    "filialname": "Filiale Mannheim West",
+    "plz": "68226",
+    "ort": "Mannheim"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     8.491546,
+     49.502469
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "filial_nr": "DE-0054",
+    "filialname": "Filiale Hannover Bahnhof",
+    "plz": "30342",
+    "ort": "Hannover"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     9.757469,
+     52.356662
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "filial_nr": "DE-0055",
+    "filialname": "Filiale München Altstadt",
+    "plz": "80337",
+    "ort": "München"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     48.128053,
+     11.554323
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "filial_nr": "DE-0056",
+    "filialname": "Filiale Dresden West",
+    "plz": "01303",
+    "ort": "Dresden"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.755021,
+     51.038711
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "filial_nr": "DE-0057",
+    "filialname": "Filiale Nürnberg Mitte",
+    "plz": "90586",
+    "ort": "Nürnberg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     11.098561,
+     49.441796
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "filial_nr": "DE-0058",
+    "filialname": "Filiale Rostock Mitte",
+    "plz": "18294",
+    "ort": "Rostock"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     12.070756,
+     54.082269
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "filial_nr": "DE-0059",
+    "filialname": "Filiale Hamburg Zentrum",
+    "plz": "22698",
+    "ort": "Hamburg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     9.989774,
+     53.527604
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "filial_nr": "DE-0060",
+    "filialname": "Filiale München Mitte",
+    "plz": "80060",
+    "ort": "München"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     11.586595,
+     48.128212
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "filial_nr": "DE-0061",
+    "filialname": "Filiale Freiburg im Breisgau West",
+    "plz": "79561",
+    "ort": "Freiburg im Breisgau"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.844407,
+     48.024535
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "filial_nr": "DE-0062",
+    "filialname": "Filiale Bremen Süd",
+    "plz": "28484",
+    "ort": "Bremen"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     8.811503,
+     53.086689
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "filial_nr": "DE-0063",
+    "filialname": "Filiale Heilbronn Ost",
+    "plz": "74366",
+    "ort": "Heilbronn"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     9.222733,
+     49.132271
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "filial_nr": "DE-0064",
+    "filialname": "Filiale Frankfurt am Main Nord",
+    "plz": "60443",
+    "ort": "Frankfurt am Main"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     8.670157,
+     50.117831
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "filial_nr": "DE-0065",
+    "filialname": "Filiale Heilbronn Zentrum",
+    "plz": "74777",
+    "ort": "Heilbronn"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     9.2173,
+     49.159846
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "filial_nr": "DE-0066",
+    "filialname": "Filiale Stuttgart Ost",
+    "plz": "",
+    "ort": "Stuttgart"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     9.200524,
+     48.77647
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "filial_nr": "DE-0067",
+    "filialname": "Filiale Mannheim West",
+    "plz": "68433",
+    "ort": "Mannheim"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     8.485105,
+     49.477611
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "filial_nr": "DE-0068",
+    "filialname": "Filiale Köln Altstadt",
+    "plz": "50917",
+    "ort": "Köln"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     6.944991,
+     50.908966
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "filial_nr": "DE-0069",
+    "filialname": "Filiale Heilbronn Bahnhof",
+    "plz": "74763",
+    "ort": "Heilbronn"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     9.21544,
+     49.165868
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "filial_nr": "DE-0070",
+    "filialname": "Filiale Köln Süd",
+    "plz": "50632",
+    "ort": "Köln"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     6.930633,
+     50.946863
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "filial_nr": "DE-0071",
+    "filialname": "Filiale Freiburg im Breisgau Süd",
+    "plz": "79727",
+    "ort": "Freiburg im Breisgau"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.845544,
+     47.996873
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "filial_nr": "DE-0072",
+    "filialname": "Filiale Freiburg im Breisgau Altstadt",
+    "plz": "79986",
+    "ort": "Freiburg im Breisgau"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.847827,
+     48.028274
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "filial_nr": "DE-0073",
+    "filialname": "Filiale Rostock Altstadt",
+    "plz": "18743",
+    "ort": "Rostock"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     12.078649,
+     54.089155
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "filial_nr": "DE-0074",
+    "filialname": "Filiale Leipzig West",
+    "plz": "04471",
+    "ort": "Leipzig"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     12.374378,
+     51.355649
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "filial_nr": "DE-0075",
+    "filialname": "Filiale Dortmund Süd",
+    "plz": "44223",
+    "ort": "Dortmund"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.455451,
+     51.49767
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "filial_nr": "DE-0076",
+    "filialname": "Filiale Nürnberg Süd",
+    "plz": "90665",
+    "ort": "Nürnberg"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     11.089085,
+     49.463737
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "filial_nr": "DE-0077",
+    "filialname": "Filiale Rostock Bahnhof",
+    "plz": "18690",
+    "ort": "Rostock"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     12.072836,
+     54.090355
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "filial_nr": "DE-0078",
+    "filialname": "Filiale Erfurt Zentrum",
+    "plz": "99466",
+    "ort": "Erfurt"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     11.000254,
+     50.977623
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "filial_nr": "DE-0079",
+    "filialname": "Filiale Rostock West",
+    "plz": "18734",
+    "ort": "Rostock"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     12.101868,
+     54.107251
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "filial_nr": "DE-0080",
+    "filialname": "Filiale Heilbronn Bahnhof",
+    "plz": "74272",
+    "ort": "Heilbronn"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     9.204231,
+     49.141839
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "filial_nr": "DE-0081",
+    "filialname": "Filiale Mannheim Nord",
+    "plz": "68162",
+    "ort": "Mannheim"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     8.490416,
+     49.489547
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "filial_nr": "DE-0082",
+    "filialname": "Filiale Kassel Zentrum",
+    "plz": "34375",
+    "ort": "Kassel"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     9.465309,
+     51.293604
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "filial_nr": "DE-0083",
+    "filialname": "Filiale Bremen Bahnhof",
+    "plz": "28417",
+    "ort": "Bremen"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     8.794448,
+     53.094974
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "filial_nr": "DE-0084",
+    "filialname": "Filiale Hannover Zentrum",
+    "plz": "30310",
+    "ort": "Hannover"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     9.705125,
+     52.390841
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "filial_nr": "DE-0085",
+    "filialname": "Filiale Hannover Nord",
+    "plz": "30923",
+    "ort": "Hannover"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     9.713962,
+     52.402877
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "filial_nr": "DE-0086",
+    "filialname": "Filiale Köln West",
+    "plz": "50745",
+    "ort": "Köln"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     6.937163,
+     50.935914
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "filial_nr": "DE-0087",
+    "filialname": "Filiale Frankfurt am Main Süd",
+    "plz": "60241",
+    "ort": "Frankfurt am Main"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     8.709924,
+     50.117254
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "filial_nr": "DE-0088",
+    "filialname": "Filiale Erfurt Bahnhof",
+    "plz": "99631",
+    "ort": "Erfurt"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     11.018617,
+     50.956341
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "filial_nr": "DE-0089",
+    "filialname": "Filiale Erfurt Süd",
+    "plz": "99491",
+    "ort": "Erfurt"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     11.037535,
+     50.996237
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "filial_nr": "DE-0090",
+    "filialname": "Filiale Erfurt Bahnhof",
+    "plz": "9951",
+    "ort": "Erfurt"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     11.020732,
+     51.001758
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "filial_nr": "DE-0091",
+    "filialname": "Filiale Bremen Altstadt",
+    "plz": "28165",
+    "ort": "Bremen"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     8.796904,
+     53.050059
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "filial_nr": "DE-0092",
+    "filialname": "Filiale Kassel Mitte",
+    "plz": "34987",
+    "ort": "Kassel"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     9.475829,
+     51.325139
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "filial_nr": "DE-0093",
+    "filialname": "Filiale Kassel Mitte",
+    "plz": "34531",
+    "ort": "Kassel"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     9.493562,
+     51.308834
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "filial_nr": "DE-0094",
+    "filialname": "Filiale Leipzig Altstadt",
+    "plz": "04996",
+    "ort": "Leipzig"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     12.357732,
+     51.362598
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "filial_nr": "DE-0095",
+    "filialname": "Filiale Bremen Ost",
+    "plz": "28735",
+    "ort": "Bremen"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     8.822757,
+     53.051022
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "filial_nr": "DE-0096",
+    "filialname": "Filiale Leipzig Mitte",
+    "plz": "04808",
+    "ort": "Leipzig"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     12.395919,
+     51.33012
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "filial_nr": "DE-0097",
+    "filialname": "Filiale Stuttgart Altstadt",
+    "plz": "70837",
+    "ort": "Stuttgart"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     9.196104,
+     48.750937
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "filial_nr": "DE-0098",
+    "filialname": "Filiale Münster Mitte",
+    "plz": "48363",
+    "ort": "Münster"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.597135,
+     51.95759
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "filial_nr": "DE-0099",
+    "filialname": "Filiale Dortmund Zentrum",
+    "plz": "44685",
+    "ort": "Dortmund"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.457441,
+     51.523438
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "filial_nr": "DE-0100",
+    "filialname": "Filiale Dresden Mitte",
+    "plz": "01313",
+    "ort": "Dresden"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.723555,
+     51.062571
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "filial_nr": "DE-0042",
+    "filialname": "Filiale Hannover Messe",
+    "plz": "50107",
+    "ort": "Köln"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     9.8102,
+     52.3218
+    ]
+   }
+  }
+ ]
+}

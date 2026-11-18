@@ -1,0 +1,11 @@
+rule,reject_reason,count
+R1,Standort ohne Geschäftsdaten (keine Zeile in store_attributes.csv),2
+R2,Geschäftsdaten ohne Standort (keine Geometrie in den Standortdateien),3
+R3,Doppelte Filial-ID – Datensatz nicht eindeutig,2
+R4,Geometrie fehlt,1
+R5,"Koordinaten außerhalb des Landes (vertauscht, 0/0 oder falsches Koordinatensystem)",4
+R6,"Pflichtfeld fehlt (Name, PLZ, Status, Eröffnungsdatum oder Verkaufsfläche)",3
+R7,Eröffnungsdatum ungültig,1
+R7,"PLZ-Format falsch (DE: 5 Ziffern, RO: 6 Ziffern)",2
+R7,"Status nicht im Wertebereich (open, closed, planned)",1
+R7,Verkaufsfläche muss größer als 0 sein,1
